@@ -1,0 +1,5 @@
+*.vsidx
+*.lock
+.vs/CPSC-471/v17/.wsuo
+*.json
+*.sqlite
